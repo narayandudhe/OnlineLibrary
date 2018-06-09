@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_addbook.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_addbook.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_searchbypublisher.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_searchbypublisher.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_searchbytitle.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_searchbytitle.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_menu.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_menu.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/item_book.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/item_book.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_fineavg.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_fineavg.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_branchinfo.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_branchinfo.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_searchbook.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_searchbook.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_bookreturn.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_bookreturn.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_booklist.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_booklist.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_resbooklist.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_resbooklist.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_searchbookbyid.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_searchbookbyid.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_freqborrowers.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_freqborrowers.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/activity_readerlogin.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/activity_readerlogin.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_computefine.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_computefine.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_bookcheckout.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_bookcheckout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_searchbook.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_searchbook.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/admin_adduser.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/admin_adduser.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/item_branch.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/item_branch.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_menu.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_menu.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/activity_adminlogin.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/activity_adminlogin.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/reader_bookreserve.xml",
+        "source": "/root/Documents/LibrarySystem/app/src/main/res/layout/reader_bookreserve.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/layout/abc_activity_chooser_view.xml"
+    }
+]

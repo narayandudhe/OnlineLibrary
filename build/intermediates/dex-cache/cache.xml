@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/root/Documents/LibrarySystem/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_0e9fd6971058beaf1560b79bcf6c775d088f95b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a83d2d9e50a74ce10b1762510efc2d16ca0e52e9/output/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/root/Documents/LibrarySystem/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_b94312e0b7b2fe36a18f7168e02a83efc233946f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.4/1c295b462f16702ebe720bbb08f62e1ba80da41b/joda-time-2.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="/root/Documents/LibrarySystem/app/build/intermediates/pre-dexed/debug/joda-time-2.9.4_2e70e003c1e058dbd87a1f5bf374be37b79004c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a83d2d9e50a74ce10b1762510efc2d16ca0e52e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/root/Documents/LibrarySystem/app/build/intermediates/pre-dexed/debug/classes_b6414286edc0c4a97215288663d72946c8d8a41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/root/Documents/LibrarySystem/app/build/intermediates/pre-dexed/debug/classes_21548bc0e89d1a8cbb7544a4fad242cd6d235c3b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:20.0.0] /root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] /root/.android/build-cache/a83d2d9e50a74ce10b1762510efc2d16ca0e52e9/output/AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml
+application
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:10:5-46:19
+MERGED from [com.android.support:appcompat-v7:20.0.0] /root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] /root/.android/build-cache/a83d2d9e50a74ce10b1762510efc2d16ca0e52e9/output/AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:13:9-41
+	android:permission
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:14:41-101
+	android:allowTaskReparenting
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:14:102-137
+	android:allowBackup
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:12:9-38
+	android:persistent
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:14:138-164
+	android:theme
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.nyit.librarysystem.MainActivity
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.nyit.librarysystem.ReaderLogin
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:25:9-57
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:25:19-45
+activity#com.nyit.librarysystem.AdminLogin
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:26:9-56
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:26:19-44
+activity#com.nyit.librarysystem.AdminMenu
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:27:9-55
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:27:19-43
+activity#com.nyit.librarysystem.admin.AdminAddBook
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:28:9-65
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:28:19-53
+activity#com.nyit.librarysystem.admin.AdminAddUser
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:29:19-53
+activity#com.nyit.librarysystem.admin.AdminSearchBook
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:30:9-68
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:30:19-56
+activity#com.nyit.librarysystem.admin.AdminBranchInfo
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:31:19-56
+activity#com.nyit.librarysystem.admin.AdminFreqBorrowers
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:32:9-71
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:32:19-59
+activity#com.nyit.librarysystem.admin.AdminFreqBooks
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:33:9-67
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:33:19-55
+activity#com.nyit.librarysystem.admin.AdminFineAverage
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:34:19-57
+activity#com.nyit.librarysystem.reader.ReaderMenu
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:35:9-64
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:35:19-52
+activity#com.nyit.librarysystem.reader.ReaderBookReturn
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:36:9-70
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:36:19-58
+activity#com.nyit.librarysystem.reader.ReaderSearchBook
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:37:9-70
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:37:19-58
+activity#com.nyit.librarysystem.reader.ReaderBookandBookId
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:38:9-74
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:38:19-61
+activity#com.nyit.librarysystem.reader.ReaderBookResList
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:39:19-59
+activity#com.nyit.librarysystem.reader.ReaderSearchbyBookId
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:40:9-75
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:40:19-62
+activity#com.nyit.librarysystem.reader.ReaderSearchBookByPublisher
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:41:9-82
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:41:19-69
+activity#com.nyit.librarysystem.reader.ReaderSearchBookByTitle
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:42:9-78
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:42:19-65
+activity#com.nyit.librarysystem.reader.ReaderBookReserve
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:43:9-72
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:43:19-59
+activity#com.nyit.librarysystem.reader.ReaderBookCheckout
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:44:9-73
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:44:19-60
+activity#com.nyit.librarysystem.reader.ReaderComputeFine
+ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:45:9-72
+	android:name
+		ADDED from /root/Documents/LibrarySystem/app/src/main/AndroidManifest.xml:45:19-59

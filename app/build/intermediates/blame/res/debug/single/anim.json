@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/root/Documents/LibrarySystem/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/anim/abc_slide_in_top.xml"
+    }
+]

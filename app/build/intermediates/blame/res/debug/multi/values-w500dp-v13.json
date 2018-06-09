@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/root/Documents/LibrarySystem/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/a13516b9bf75bc4c94f431d8681ba778f77ffad8/output/res/values-w500dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
